@@ -1,0 +1,1 @@
+This repository contains a Jupyter notebook detailing the development of a machine learning model that won a bronze medal on Kaggle. The model leverages deep learning and gradient boosting techniques to optimize prediction accuracy through ensemble method coordination.
